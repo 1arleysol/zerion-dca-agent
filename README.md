@@ -8,7 +8,7 @@ ZerionDCA is a fully autonomous Dollar Cost Averaging agent that **automatically
 
 ## 🎥 Demo
 
-> Agent running + live dashboard: [video link]
+> Agent running + live dashboard: https://youtu.be/3c58TQMHd5I
 
 **Live stats:**
 - Wallet: `0x7de6b3A58173B6812F5d3f84ba0Fe97F415dB79F` (Base chain)
