@@ -1,0 +1,14 @@
+{
+  "name": "zerion-dca-agent",
+  "version": "2.0.0",
+  "description": "Autonomous DCA agent using Zerion CLI — Frontier Hackathon",
+  "type": "module",
+  "scripts": {
+    "start":     "node index.mjs",
+    "dry-run":   "DRY_RUN=true node index.mjs",
+    "stats":     "node index.mjs --stats",
+    "history":   "node index.mjs --history",
+    "dashboard": "node dashboard.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

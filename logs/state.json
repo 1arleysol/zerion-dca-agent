@@ -1,0 +1,21 @@
+{
+  "totalCycles": 1,
+  "skippedCycles": 0,
+  "errorCycles": 0,
+  "totalSpentUSD": 5,
+  "trades": [
+    {
+      "timestamp": "2026-05-09T22:36:46.723Z",
+      "symbol": "ETH",
+      "chain": "base",
+      "amountUSD": 5,
+      "status": "success",
+      "txHash": "dry-1778366206723"
+    }
+  ],
+  "lastPrices": {
+    "ETH": null
+  },
+  "startedAt": "2026-05-09T22:36:45.910Z",
+  "lastCycle": "2026-05-09T22:36:46.724Z"
+}
